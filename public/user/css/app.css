@@ -1,0 +1,19 @@
+/*<hr> modification*/
+hr.style-one {
+border: 0;
+height: 1px;
+background: #828487;
+background-image: -webkit-linear-gradient(left, #DDD, #828487, #DDD);
+background-image: -moz-linear-gradient(left, #DDD, #828487, #DDD);
+background-image: -ms-linear-gradient(left, #DDD, #828487, #DDD);
+background-image: -o-linear-gradient(left, #DDD, #828487, #DDD);
+}
+
+hr.style1{
+	height:3px;
+	border:2px dotted #FFF;
+	background: #FFF;
+	width: 200px;
+	border-radius: 3px;
+
+}
